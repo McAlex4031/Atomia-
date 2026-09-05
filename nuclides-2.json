@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "V-51",
+    "element": "V",
+    "massNumber": 51,
+    "protons": 23,
+    "neutrons": 28,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Cr-52",
+    "element": "Cr",
+    "massNumber": 52,
+    "protons": 24,
+    "neutrons": 28,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Cr-53",
+    "element": "Cr",
+    "massNumber": 53,
+    "protons": 24,
+    "neutrons": 29,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Cr-54",
+    "element": "Cr",
+    "massNumber": 54,
+    "protons": 24,
+    "neutrons": 30,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Mn-55",
+    "element": "Mn",
+    "massNumber": 55,
+    "protons": 25,
+    "neutrons": 30,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Mn-53",
+    "element": "Mn",
+    "massNumber": 53,
+    "protons": 25,
+    "neutrons": 28,
+    "isRadioactive": true,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Fe-54",
+    "element": "Fe",
+    "massNumber": 54,
+    "protons": 26,
+    "neutrons": 28,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Fe-56",
+    "element": "Fe",
+    "massNumber": 56,
+    "protons": 26,
+    "neutrons": 30,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Fe-57",
+    "element": "Fe",
+    "massNumber": 57,
+    "protons": 26,
+    "neutrons": 31,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Fe-58",
+    "element": "Fe",
+    "massNumber": 58,
+    "protons": 26,
+    "neutrons": 32,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Co-59",
+    "element": "Co",
+    "massNumber": 59,
+    "protons": 27,
+    "neutrons": 32,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Co-60",
+    "element": "Co",
+    "massNumber": 60,
+    "protons": 27,
+    "neutrons": 33,
+    "isRadioactive": true,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Ni-58",
+    "element": "Ni",
+    "massNumber": 58,
+    "protons": 28,
+    "neutrons": 30,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Ni-60",
+    "element": "Ni",
+    "massNumber": 60,
+    "protons": 28,
+    "neutrons": 32,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Ni-61",
+    "element": "Ni",
+    "massNumber": 61,
+    "protons": 28,
+    "neutrons": 33,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Ni-62",
+    "element": "Ni",
+    "massNumber": 62,
+    "protons": 28,
+    "neutrons": 34,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Ni-64",
+    "element": "Ni",
+    "massNumber": 64,
+    "protons": 28,
+    "neutrons": 36,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Cu-63",
+    "element": "Cu",
+    "massNumber": 63,
+    "protons": 29,
+    "neutrons": 34,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Cu-65",
+    "element": "Cu",
+    "massNumber": 65,
+    "protons": 29,
+    "neutrons": 36,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Zn-64",
+    "element": "Zn",
+    "massNumber": 64,
+    "protons": 30,
+    "neutrons": 34,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Zn-66",
+    "element": "Zn",
+    "massNumber": 66,
+    "protons": 30,
+    "neutrons": 36,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Zn-67",
+    "element": "Zn",
+    "massNumber": 67,
+    "protons": 30,
+    "neutrons": 37,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Zn-68",
+    "element": "Zn",
+    "massNumber": 68,
+    "protons": 30,
+    "neutrons": 38,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Zn-70",
+    "element": "Zn",
+    "massNumber": 70,
+    "protons": 30,
+    "neutrons": 40,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Ga-69",
+    "element": "Ga",
+    "massNumber": 69,
+    "protons": 31,
+    "neutrons": 38,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Ga-71",
+    "element": "Ga",
+    "massNumber": 71,
+    "protons": 31,
+    "neutrons": 40,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Ge-70",
+    "element": "Ge",
+    "massNumber": 70,
+    "protons": 32,
+    "neutrons": 38,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Ge-72",
+    "element": "Ge",
+    "massNumber": 72,
+    "protons": 32,
+    "neutrons": 40,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Ge-73",
+    "element": "Ge",
+    "massNumber": 73,
+    "protons": 32,
+    "neutrons": 41,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Ge-74",
+    "element": "Ge",
+    "massNumber": 74,
+    "protons": 32,
+    "neutrons": 42,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Ge-76",
+    "element": "Ge",
+    "massNumber": 76,
+    "protons": 32,
+    "neutrons": 44,
+    "isRadioactive": true,
+    "halfLife": {
+      "valueInSeconds": 1.58e+21,
+      "display": "1.58e+21 s"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "As-75",
+    "element": "As",
+    "massNumber": 75,
+    "protons": 33,
+    "neutrons": 42,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Se-74",
+    "element": "Se",
+    "massNumber": 74,
+    "protons": 34,
+    "neutrons": 40,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Se-76",
+    "element": "Se",
+    "massNumber": 76,
+    "protons": 34,
+    "neutrons": 42,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Se-77",
+    "element": "Se",
+    "massNumber": 77,
+    "protons": 34,
+    "neutrons": 43,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Se-78",
+    "element": "Se",
+    "massNumber": 78,
+    "protons": 34,
+    "neutrons": 44,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Se-80",
+    "element": "Se",
+    "massNumber": 80,
+    "protons": 34,
+    "neutrons": 46,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Se-82",
+    "element": "Se",
+    "massNumber": 82,
+    "protons": 34,
+    "neutrons": 48,
+    "isRadioactive": true,
+    "halfLife": {
+      "valueInSeconds": 9.7e+19,
+      "display": "9.7e+19 s"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Se-79",
+    "element": "Se",
+    "massNumber": 79,
+    "protons": 34,
+    "neutrons": 45,
+    "isRadioactive": true,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Br-79",
+    "element": "Br",
+    "massNumber": 79,
+    "protons": 35,
+    "neutrons": 44,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Br-81",
+    "element": "Br",
+    "massNumber": 81,
+    "protons": 35,
+    "neutrons": 46,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Kr-78",
+    "element": "Kr",
+    "massNumber": 78,
+    "protons": 36,
+    "neutrons": 42,
+    "isRadioactive": true,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Kr-80",
+    "element": "Kr",
+    "massNumber": 80,
+    "protons": 36,
+    "neutrons": 44,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Kr-82",
+    "element": "Kr",
+    "massNumber": 82,
+    "protons": 36,
+    "neutrons": 46,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Kr-83",
+    "element": "Kr",
+    "massNumber": 83,
+    "protons": 36,
+    "neutrons": 47,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Kr-84",
+    "element": "Kr",
+    "massNumber": 84,
+    "protons": 36,
+    "neutrons": 48,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Kr-86",
+    "element": "Kr",
+    "massNumber": 86,
+    "protons": 36,
+    "neutrons": 50,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Kr-85",
+    "element": "Kr",
+    "massNumber": 85,
+    "protons": 36,
+    "neutrons": 49,
+    "isRadioactive": true,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Rb-85",
+    "element": "Rb",
+    "massNumber": 85,
+    "protons": 37,
+    "neutrons": 48,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Rb-87",
+    "element": "Rb",
+    "massNumber": 87,
+    "protons": 37,
+    "neutrons": 50,
+    "isRadioactive": true,
+    "halfLife": {
+      "valueInSeconds": 49230000000.0,
+      "display": "49230000000.0 s"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Sr-84",
+    "element": "Sr",
+    "massNumber": 84,
+    "protons": 38,
+    "neutrons": 46,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Sr-86",
+    "element": "Sr",
+    "massNumber": 86,
+    "protons": 38,
+    "neutrons": 48,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Sr-87",
+    "element": "Sr",
+    "massNumber": 87,
+    "protons": 38,
+    "neutrons": 49,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Sr-88",
+    "element": "Sr",
+    "massNumber": 88,
+    "protons": 38,
+    "neutrons": 50,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Y-89",
+    "element": "Y",
+    "massNumber": 89,
+    "protons": 39,
+    "neutrons": 50,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Zr-90",
+    "element": "Zr",
+    "massNumber": 90,
+    "protons": 40,
+    "neutrons": 50,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Zr-91",
+    "element": "Zr",
+    "massNumber": 91,
+    "protons": 40,
+    "neutrons": 51,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Zr-92",
+    "element": "Zr",
+    "massNumber": 92,
+    "protons": 40,
+    "neutrons": 52,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Zr-94",
+    "element": "Zr",
+    "massNumber": 94,
+    "protons": 40,
+    "neutrons": 54,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Zr-96",
+    "element": "Zr",
+    "massNumber": 96,
+    "protons": 40,
+    "neutrons": 56,
+    "isRadioactive": true,
+    "halfLife": {
+      "valueInSeconds": 2e+19,
+      "display": "2e+19 s"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Nb-93",
+    "element": "Nb",
+    "massNumber": 93,
+    "protons": 41,
+    "neutrons": 52,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Mo-92",
+    "element": "Mo",
+    "massNumber": 92,
+    "protons": 42,
+    "neutrons": 50,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Mo-94",
+    "element": "Mo",
+    "massNumber": 94,
+    "protons": 42,
+    "neutrons": 52,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Mo-95",
+    "element": "Mo",
+    "massNumber": 95,
+    "protons": 42,
+    "neutrons": 53,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Mo-96",
+    "element": "Mo",
+    "massNumber": 96,
+    "protons": 42,
+    "neutrons": 54,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Mo-97",
+    "element": "Mo",
+    "massNumber": 97,
+    "protons": 42,
+    "neutrons": 55,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Mo-98",
+    "element": "Mo",
+    "massNumber": 98,
+    "protons": 42,
+    "neutrons": 56,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Mo-100",
+    "element": "Mo",
+    "massNumber": 100,
+    "protons": 42,
+    "neutrons": 58,
+    "isRadioactive": true,
+    "halfLife": {
+      "valueInSeconds": 7.3e+18,
+      "display": "7.3e+18 s"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Tc-98",
+    "element": "Tc",
+    "massNumber": 98,
+    "protons": 43,
+    "neutrons": 55,
+    "isRadioactive": true,
+    "halfLife": {
+      "valueInSeconds": 4200000.0,
+      "display": "4200000.0 s"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Tc-97",
+    "element": "Tc",
+    "massNumber": 97,
+    "protons": 43,
+    "neutrons": 54,
+    "isRadioactive": true,
+    "halfLife": {
+      "valueInSeconds": 4210000.0,
+      "display": "4210000.0 s"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Tc-99",
+    "element": "Tc",
+    "massNumber": 99,
+    "protons": 43,
+    "neutrons": 56,
+    "isRadioactive": true,
+    "halfLife": {
+      "valueInSeconds": 211100.00000000003,
+      "display": "211100.00000000003 s"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Ru-96",
+    "element": "Ru",
+    "massNumber": 96,
+    "protons": 44,
+    "neutrons": 52,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Ru-98",
+    "element": "Ru",
+    "massNumber": 98,
+    "protons": 44,
+    "neutrons": 54,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Ru-99",
+    "element": "Ru",
+    "massNumber": 99,
+    "protons": 44,
+    "neutrons": 55,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  },
+  {
+    "id": "Ru-100",
+    "element": "Ru",
+    "massNumber": 100,
+    "protons": 44,
+    "neutrons": 56,
+    "isRadioactive": false,
+    "halfLife": {
+      "valueInSeconds": "Infinity",
+      "display": "Stable"
+    },
+    "decayModes": [],
+    "source": "Mendeleev DB (NIST/NUBASE)"
+  }
+]
