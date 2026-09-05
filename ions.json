@@ -1,0 +1,1304 @@
+[
+  {
+    "id": "H-",
+    "element": "H",
+    "atomicNumber": 1,
+    "charge": -1
+  },
+  {
+    "id": "H+",
+    "element": "H",
+    "atomicNumber": 1,
+    "charge": 1
+  },
+  {
+    "id": "Li+",
+    "element": "Li",
+    "atomicNumber": 3,
+    "charge": 1
+  },
+  {
+    "id": "Be2+",
+    "element": "Be",
+    "atomicNumber": 4,
+    "charge": 2
+  },
+  {
+    "id": "B3+",
+    "element": "B",
+    "atomicNumber": 5,
+    "charge": 3
+  },
+  {
+    "id": "C4-",
+    "element": "C",
+    "atomicNumber": 6,
+    "charge": -4
+  },
+  {
+    "id": "C4+",
+    "element": "C",
+    "atomicNumber": 6,
+    "charge": 4
+  },
+  {
+    "id": "N3-",
+    "element": "N",
+    "atomicNumber": 7,
+    "charge": -3
+  },
+  {
+    "id": "N3+",
+    "element": "N",
+    "atomicNumber": 7,
+    "charge": 3
+  },
+  {
+    "id": "N5+",
+    "element": "N",
+    "atomicNumber": 7,
+    "charge": 5
+  },
+  {
+    "id": "O2-",
+    "element": "O",
+    "atomicNumber": 8,
+    "charge": -2
+  },
+  {
+    "id": "F-",
+    "element": "F",
+    "atomicNumber": 9,
+    "charge": -1
+  },
+  {
+    "id": "Na+",
+    "element": "Na",
+    "atomicNumber": 11,
+    "charge": 1
+  },
+  {
+    "id": "Mg2+",
+    "element": "Mg",
+    "atomicNumber": 12,
+    "charge": 2
+  },
+  {
+    "id": "Al3+",
+    "element": "Al",
+    "atomicNumber": 13,
+    "charge": 3
+  },
+  {
+    "id": "Si4-",
+    "element": "Si",
+    "atomicNumber": 14,
+    "charge": -4
+  },
+  {
+    "id": "Si4+",
+    "element": "Si",
+    "atomicNumber": 14,
+    "charge": 4
+  },
+  {
+    "id": "P3-",
+    "element": "P",
+    "atomicNumber": 15,
+    "charge": -3
+  },
+  {
+    "id": "P3+",
+    "element": "P",
+    "atomicNumber": 15,
+    "charge": 3
+  },
+  {
+    "id": "P5+",
+    "element": "P",
+    "atomicNumber": 15,
+    "charge": 5
+  },
+  {
+    "id": "S2-",
+    "element": "S",
+    "atomicNumber": 16,
+    "charge": -2
+  },
+  {
+    "id": "S4+",
+    "element": "S",
+    "atomicNumber": 16,
+    "charge": 4
+  },
+  {
+    "id": "S6+",
+    "element": "S",
+    "atomicNumber": 16,
+    "charge": 6
+  },
+  {
+    "id": "Cl-",
+    "element": "Cl",
+    "atomicNumber": 17,
+    "charge": -1
+  },
+  {
+    "id": "Cl+",
+    "element": "Cl",
+    "atomicNumber": 17,
+    "charge": 1
+  },
+  {
+    "id": "Cl3+",
+    "element": "Cl",
+    "atomicNumber": 17,
+    "charge": 3
+  },
+  {
+    "id": "Cl5+",
+    "element": "Cl",
+    "atomicNumber": 17,
+    "charge": 5
+  },
+  {
+    "id": "Cl7+",
+    "element": "Cl",
+    "atomicNumber": 17,
+    "charge": 7
+  },
+  {
+    "id": "K+",
+    "element": "K",
+    "atomicNumber": 19,
+    "charge": 1
+  },
+  {
+    "id": "Ca2+",
+    "element": "Ca",
+    "atomicNumber": 20,
+    "charge": 2
+  },
+  {
+    "id": "Sc3+",
+    "element": "Sc",
+    "atomicNumber": 21,
+    "charge": 3
+  },
+  {
+    "id": "Ti2+",
+    "element": "Ti",
+    "atomicNumber": 22,
+    "charge": 2
+  },
+  {
+    "id": "Ti3+",
+    "element": "Ti",
+    "atomicNumber": 22,
+    "charge": 3
+  },
+  {
+    "id": "Ti4+",
+    "element": "Ti",
+    "atomicNumber": 22,
+    "charge": 4
+  },
+  {
+    "id": "V2+",
+    "element": "V",
+    "atomicNumber": 23,
+    "charge": 2
+  },
+  {
+    "id": "V3+",
+    "element": "V",
+    "atomicNumber": 23,
+    "charge": 3
+  },
+  {
+    "id": "V4+",
+    "element": "V",
+    "atomicNumber": 23,
+    "charge": 4
+  },
+  {
+    "id": "V5+",
+    "element": "V",
+    "atomicNumber": 23,
+    "charge": 5
+  },
+  {
+    "id": "Cr2+",
+    "element": "Cr",
+    "atomicNumber": 24,
+    "charge": 2
+  },
+  {
+    "id": "Cr3+",
+    "element": "Cr",
+    "atomicNumber": 24,
+    "charge": 3
+  },
+  {
+    "id": "Cr6+",
+    "element": "Cr",
+    "atomicNumber": 24,
+    "charge": 6
+  },
+  {
+    "id": "Mn2+",
+    "element": "Mn",
+    "atomicNumber": 25,
+    "charge": 2
+  },
+  {
+    "id": "Mn3+",
+    "element": "Mn",
+    "atomicNumber": 25,
+    "charge": 3
+  },
+  {
+    "id": "Mn4+",
+    "element": "Mn",
+    "atomicNumber": 25,
+    "charge": 4
+  },
+  {
+    "id": "Mn6+",
+    "element": "Mn",
+    "atomicNumber": 25,
+    "charge": 6
+  },
+  {
+    "id": "Mn7+",
+    "element": "Mn",
+    "atomicNumber": 25,
+    "charge": 7
+  },
+  {
+    "id": "Fe2+",
+    "element": "Fe",
+    "atomicNumber": 26,
+    "charge": 2
+  },
+  {
+    "id": "Fe3+",
+    "element": "Fe",
+    "atomicNumber": 26,
+    "charge": 3
+  },
+  {
+    "id": "Co2+",
+    "element": "Co",
+    "atomicNumber": 27,
+    "charge": 2
+  },
+  {
+    "id": "Co3+",
+    "element": "Co",
+    "atomicNumber": 27,
+    "charge": 3
+  },
+  {
+    "id": "Ni2+",
+    "element": "Ni",
+    "atomicNumber": 28,
+    "charge": 2
+  },
+  {
+    "id": "Ni3+",
+    "element": "Ni",
+    "atomicNumber": 28,
+    "charge": 3
+  },
+  {
+    "id": "Cu+",
+    "element": "Cu",
+    "atomicNumber": 29,
+    "charge": 1
+  },
+  {
+    "id": "Cu2+",
+    "element": "Cu",
+    "atomicNumber": 29,
+    "charge": 2
+  },
+  {
+    "id": "Zn2+",
+    "element": "Zn",
+    "atomicNumber": 30,
+    "charge": 2
+  },
+  {
+    "id": "Ga3+",
+    "element": "Ga",
+    "atomicNumber": 31,
+    "charge": 3
+  },
+  {
+    "id": "Ge2+",
+    "element": "Ge",
+    "atomicNumber": 32,
+    "charge": 2
+  },
+  {
+    "id": "Ge4+",
+    "element": "Ge",
+    "atomicNumber": 32,
+    "charge": 4
+  },
+  {
+    "id": "As3-",
+    "element": "As",
+    "atomicNumber": 33,
+    "charge": -3
+  },
+  {
+    "id": "As3+",
+    "element": "As",
+    "atomicNumber": 33,
+    "charge": 3
+  },
+  {
+    "id": "As5+",
+    "element": "As",
+    "atomicNumber": 33,
+    "charge": 5
+  },
+  {
+    "id": "Se2-",
+    "element": "Se",
+    "atomicNumber": 34,
+    "charge": -2
+  },
+  {
+    "id": "Se4+",
+    "element": "Se",
+    "atomicNumber": 34,
+    "charge": 4
+  },
+  {
+    "id": "Se6+",
+    "element": "Se",
+    "atomicNumber": 34,
+    "charge": 6
+  },
+  {
+    "id": "Br-",
+    "element": "Br",
+    "atomicNumber": 35,
+    "charge": -1
+  },
+  {
+    "id": "Br+",
+    "element": "Br",
+    "atomicNumber": 35,
+    "charge": 1
+  },
+  {
+    "id": "Br3+",
+    "element": "Br",
+    "atomicNumber": 35,
+    "charge": 3
+  },
+  {
+    "id": "Br5+",
+    "element": "Br",
+    "atomicNumber": 35,
+    "charge": 5
+  },
+  {
+    "id": "Br7+",
+    "element": "Br",
+    "atomicNumber": 35,
+    "charge": 7
+  },
+  {
+    "id": "Rb+",
+    "element": "Rb",
+    "atomicNumber": 37,
+    "charge": 1
+  },
+  {
+    "id": "Sr2+",
+    "element": "Sr",
+    "atomicNumber": 38,
+    "charge": 2
+  },
+  {
+    "id": "Y3+",
+    "element": "Y",
+    "atomicNumber": 39,
+    "charge": 3
+  },
+  {
+    "id": "Zr4+",
+    "element": "Zr",
+    "atomicNumber": 40,
+    "charge": 4
+  },
+  {
+    "id": "Nb3+",
+    "element": "Nb",
+    "atomicNumber": 41,
+    "charge": 3
+  },
+  {
+    "id": "Nb5+",
+    "element": "Nb",
+    "atomicNumber": 41,
+    "charge": 5
+  },
+  {
+    "id": "Mo3+",
+    "element": "Mo",
+    "atomicNumber": 42,
+    "charge": 3
+  },
+  {
+    "id": "Mo5+",
+    "element": "Mo",
+    "atomicNumber": 42,
+    "charge": 5
+  },
+  {
+    "id": "Mo6+",
+    "element": "Mo",
+    "atomicNumber": 42,
+    "charge": 6
+  },
+  {
+    "id": "Tc4+",
+    "element": "Tc",
+    "atomicNumber": 43,
+    "charge": 4
+  },
+  {
+    "id": "Tc7+",
+    "element": "Tc",
+    "atomicNumber": 43,
+    "charge": 7
+  },
+  {
+    "id": "Ru3+",
+    "element": "Ru",
+    "atomicNumber": 44,
+    "charge": 3
+  },
+  {
+    "id": "Ru4+",
+    "element": "Ru",
+    "atomicNumber": 44,
+    "charge": 4
+  },
+  {
+    "id": "Ru8+",
+    "element": "Ru",
+    "atomicNumber": 44,
+    "charge": 8
+  },
+  {
+    "id": "Rh3+",
+    "element": "Rh",
+    "atomicNumber": 45,
+    "charge": 3
+  },
+  {
+    "id": "Pd2+",
+    "element": "Pd",
+    "atomicNumber": 46,
+    "charge": 2
+  },
+  {
+    "id": "Pd4+",
+    "element": "Pd",
+    "atomicNumber": 46,
+    "charge": 4
+  },
+  {
+    "id": "Ag+",
+    "element": "Ag",
+    "atomicNumber": 47,
+    "charge": 1
+  },
+  {
+    "id": "Cd2+",
+    "element": "Cd",
+    "atomicNumber": 48,
+    "charge": 2
+  },
+  {
+    "id": "In+",
+    "element": "In",
+    "atomicNumber": 49,
+    "charge": 1
+  },
+  {
+    "id": "In3+",
+    "element": "In",
+    "atomicNumber": 49,
+    "charge": 3
+  },
+  {
+    "id": "Sn2+",
+    "element": "Sn",
+    "atomicNumber": 50,
+    "charge": 2
+  },
+  {
+    "id": "Sn4+",
+    "element": "Sn",
+    "atomicNumber": 50,
+    "charge": 4
+  },
+  {
+    "id": "Sb3-",
+    "element": "Sb",
+    "atomicNumber": 51,
+    "charge": -3
+  },
+  {
+    "id": "Sb3+",
+    "element": "Sb",
+    "atomicNumber": 51,
+    "charge": 3
+  },
+  {
+    "id": "Sb5+",
+    "element": "Sb",
+    "atomicNumber": 51,
+    "charge": 5
+  },
+  {
+    "id": "Te2-",
+    "element": "Te",
+    "atomicNumber": 52,
+    "charge": -2
+  },
+  {
+    "id": "Te4+",
+    "element": "Te",
+    "atomicNumber": 52,
+    "charge": 4
+  },
+  {
+    "id": "Te6+",
+    "element": "Te",
+    "atomicNumber": 52,
+    "charge": 6
+  },
+  {
+    "id": "I-",
+    "element": "I",
+    "atomicNumber": 53,
+    "charge": -1
+  },
+  {
+    "id": "I+",
+    "element": "I",
+    "atomicNumber": 53,
+    "charge": 1
+  },
+  {
+    "id": "I3+",
+    "element": "I",
+    "atomicNumber": 53,
+    "charge": 3
+  },
+  {
+    "id": "I5+",
+    "element": "I",
+    "atomicNumber": 53,
+    "charge": 5
+  },
+  {
+    "id": "I7+",
+    "element": "I",
+    "atomicNumber": 53,
+    "charge": 7
+  },
+  {
+    "id": "Cs+",
+    "element": "Cs",
+    "atomicNumber": 55,
+    "charge": 1
+  },
+  {
+    "id": "Ba2+",
+    "element": "Ba",
+    "atomicNumber": 56,
+    "charge": 2
+  },
+  {
+    "id": "La3+",
+    "element": "La",
+    "atomicNumber": 57,
+    "charge": 3
+  },
+  {
+    "id": "Ce3+",
+    "element": "Ce",
+    "atomicNumber": 58,
+    "charge": 3
+  },
+  {
+    "id": "Ce4+",
+    "element": "Ce",
+    "atomicNumber": 58,
+    "charge": 4
+  },
+  {
+    "id": "Pr3+",
+    "element": "Pr",
+    "atomicNumber": 59,
+    "charge": 3
+  },
+  {
+    "id": "Pr4+",
+    "element": "Pr",
+    "atomicNumber": 59,
+    "charge": 4
+  },
+  {
+    "id": "Nd3+",
+    "element": "Nd",
+    "atomicNumber": 60,
+    "charge": 3
+  },
+  {
+    "id": "Pm3+",
+    "element": "Pm",
+    "atomicNumber": 61,
+    "charge": 3
+  },
+  {
+    "id": "Sm2+",
+    "element": "Sm",
+    "atomicNumber": 62,
+    "charge": 2
+  },
+  {
+    "id": "Sm3+",
+    "element": "Sm",
+    "atomicNumber": 62,
+    "charge": 3
+  },
+  {
+    "id": "Eu2+",
+    "element": "Eu",
+    "atomicNumber": 63,
+    "charge": 2
+  },
+  {
+    "id": "Eu3+",
+    "element": "Eu",
+    "atomicNumber": 63,
+    "charge": 3
+  },
+  {
+    "id": "Gd3+",
+    "element": "Gd",
+    "atomicNumber": 64,
+    "charge": 3
+  },
+  {
+    "id": "Tb3+",
+    "element": "Tb",
+    "atomicNumber": 65,
+    "charge": 3
+  },
+  {
+    "id": "Tb4+",
+    "element": "Tb",
+    "atomicNumber": 65,
+    "charge": 4
+  },
+  {
+    "id": "Dy3+",
+    "element": "Dy",
+    "atomicNumber": 66,
+    "charge": 3
+  },
+  {
+    "id": "Ho3+",
+    "element": "Ho",
+    "atomicNumber": 67,
+    "charge": 3
+  },
+  {
+    "id": "Er3+",
+    "element": "Er",
+    "atomicNumber": 68,
+    "charge": 3
+  },
+  {
+    "id": "Tm2+",
+    "element": "Tm",
+    "atomicNumber": 69,
+    "charge": 2
+  },
+  {
+    "id": "Tm3+",
+    "element": "Tm",
+    "atomicNumber": 69,
+    "charge": 3
+  },
+  {
+    "id": "Yb2+",
+    "element": "Yb",
+    "atomicNumber": 70,
+    "charge": 2
+  },
+  {
+    "id": "Yb3+",
+    "element": "Yb",
+    "atomicNumber": 70,
+    "charge": 3
+  },
+  {
+    "id": "Lu3+",
+    "element": "Lu",
+    "atomicNumber": 71,
+    "charge": 3
+  },
+  {
+    "id": "Hf4+",
+    "element": "Hf",
+    "atomicNumber": 72,
+    "charge": 4
+  },
+  {
+    "id": "Ta5+",
+    "element": "Ta",
+    "atomicNumber": 73,
+    "charge": 5
+  },
+  {
+    "id": "W4+",
+    "element": "W",
+    "atomicNumber": 74,
+    "charge": 4
+  },
+  {
+    "id": "W5+",
+    "element": "W",
+    "atomicNumber": 74,
+    "charge": 5
+  },
+  {
+    "id": "W6+",
+    "element": "W",
+    "atomicNumber": 74,
+    "charge": 6
+  },
+  {
+    "id": "Re4+",
+    "element": "Re",
+    "atomicNumber": 75,
+    "charge": 4
+  },
+  {
+    "id": "Re6+",
+    "element": "Re",
+    "atomicNumber": 75,
+    "charge": 6
+  },
+  {
+    "id": "Re7+",
+    "element": "Re",
+    "atomicNumber": 75,
+    "charge": 7
+  },
+  {
+    "id": "Os4+",
+    "element": "Os",
+    "atomicNumber": 76,
+    "charge": 4
+  },
+  {
+    "id": "Os6+",
+    "element": "Os",
+    "atomicNumber": 76,
+    "charge": 6
+  },
+  {
+    "id": "Os8+",
+    "element": "Os",
+    "atomicNumber": 76,
+    "charge": 8
+  },
+  {
+    "id": "Ir3+",
+    "element": "Ir",
+    "atomicNumber": 77,
+    "charge": 3
+  },
+  {
+    "id": "Ir4+",
+    "element": "Ir",
+    "atomicNumber": 77,
+    "charge": 4
+  },
+  {
+    "id": "Pt2+",
+    "element": "Pt",
+    "atomicNumber": 78,
+    "charge": 2
+  },
+  {
+    "id": "Pt4+",
+    "element": "Pt",
+    "atomicNumber": 78,
+    "charge": 4
+  },
+  {
+    "id": "Au+",
+    "element": "Au",
+    "atomicNumber": 79,
+    "charge": 1
+  },
+  {
+    "id": "Au3+",
+    "element": "Au",
+    "atomicNumber": 79,
+    "charge": 3
+  },
+  {
+    "id": "Hg+",
+    "element": "Hg",
+    "atomicNumber": 80,
+    "charge": 1
+  },
+  {
+    "id": "Hg2+",
+    "element": "Hg",
+    "atomicNumber": 80,
+    "charge": 2
+  },
+  {
+    "id": "Tl+",
+    "element": "Tl",
+    "atomicNumber": 81,
+    "charge": 1
+  },
+  {
+    "id": "Tl3+",
+    "element": "Tl",
+    "atomicNumber": 81,
+    "charge": 3
+  },
+  {
+    "id": "Pb2+",
+    "element": "Pb",
+    "atomicNumber": 82,
+    "charge": 2
+  },
+  {
+    "id": "Pb4+",
+    "element": "Pb",
+    "atomicNumber": 82,
+    "charge": 4
+  },
+  {
+    "id": "Bi3+",
+    "element": "Bi",
+    "atomicNumber": 83,
+    "charge": 3
+  },
+  {
+    "id": "Bi5+",
+    "element": "Bi",
+    "atomicNumber": 83,
+    "charge": 5
+  },
+  {
+    "id": "Po2+",
+    "element": "Po",
+    "atomicNumber": 84,
+    "charge": 2
+  },
+  {
+    "id": "Po4+",
+    "element": "Po",
+    "atomicNumber": 84,
+    "charge": 4
+  },
+  {
+    "id": "Po6+",
+    "element": "Po",
+    "atomicNumber": 84,
+    "charge": 6
+  },
+  {
+    "id": "At-",
+    "element": "At",
+    "atomicNumber": 85,
+    "charge": -1
+  },
+  {
+    "id": "At+",
+    "element": "At",
+    "atomicNumber": 85,
+    "charge": 1
+  },
+  {
+    "id": "At3+",
+    "element": "At",
+    "atomicNumber": 85,
+    "charge": 3
+  },
+  {
+    "id": "At5+",
+    "element": "At",
+    "atomicNumber": 85,
+    "charge": 5
+  },
+  {
+    "id": "At7+",
+    "element": "At",
+    "atomicNumber": 85,
+    "charge": 7
+  },
+  {
+    "id": "Fr+",
+    "element": "Fr",
+    "atomicNumber": 87,
+    "charge": 1
+  },
+  {
+    "id": "Ra2+",
+    "element": "Ra",
+    "atomicNumber": 88,
+    "charge": 2
+  },
+  {
+    "id": "Ac3+",
+    "element": "Ac",
+    "atomicNumber": 89,
+    "charge": 3
+  },
+  {
+    "id": "Th4+",
+    "element": "Th",
+    "atomicNumber": 90,
+    "charge": 4
+  },
+  {
+    "id": "Pa4+",
+    "element": "Pa",
+    "atomicNumber": 91,
+    "charge": 4
+  },
+  {
+    "id": "Pa5+",
+    "element": "Pa",
+    "atomicNumber": 91,
+    "charge": 5
+  },
+  {
+    "id": "U3+",
+    "element": "U",
+    "atomicNumber": 92,
+    "charge": 3
+  },
+  {
+    "id": "U4+",
+    "element": "U",
+    "atomicNumber": 92,
+    "charge": 4
+  },
+  {
+    "id": "U5+",
+    "element": "U",
+    "atomicNumber": 92,
+    "charge": 5
+  },
+  {
+    "id": "U6+",
+    "element": "U",
+    "atomicNumber": 92,
+    "charge": 6
+  },
+  {
+    "id": "Np3+",
+    "element": "Np",
+    "atomicNumber": 93,
+    "charge": 3
+  },
+  {
+    "id": "Np4+",
+    "element": "Np",
+    "atomicNumber": 93,
+    "charge": 4
+  },
+  {
+    "id": "Np5+",
+    "element": "Np",
+    "atomicNumber": 93,
+    "charge": 5
+  },
+  {
+    "id": "Np6+",
+    "element": "Np",
+    "atomicNumber": 93,
+    "charge": 6
+  },
+  {
+    "id": "Np7+",
+    "element": "Np",
+    "atomicNumber": 93,
+    "charge": 7
+  },
+  {
+    "id": "Pu3+",
+    "element": "Pu",
+    "atomicNumber": 94,
+    "charge": 3
+  },
+  {
+    "id": "Pu4+",
+    "element": "Pu",
+    "atomicNumber": 94,
+    "charge": 4
+  },
+  {
+    "id": "Pu5+",
+    "element": "Pu",
+    "atomicNumber": 94,
+    "charge": 5
+  },
+  {
+    "id": "Pu6+",
+    "element": "Pu",
+    "atomicNumber": 94,
+    "charge": 6
+  },
+  {
+    "id": "Am3+",
+    "element": "Am",
+    "atomicNumber": 95,
+    "charge": 3
+  },
+  {
+    "id": "Am4+",
+    "element": "Am",
+    "atomicNumber": 95,
+    "charge": 4
+  },
+  {
+    "id": "Am5+",
+    "element": "Am",
+    "atomicNumber": 95,
+    "charge": 5
+  },
+  {
+    "id": "Am6+",
+    "element": "Am",
+    "atomicNumber": 95,
+    "charge": 6
+  },
+  {
+    "id": "Cm3+",
+    "element": "Cm",
+    "atomicNumber": 96,
+    "charge": 3
+  },
+  {
+    "id": "Bk3+",
+    "element": "Bk",
+    "atomicNumber": 97,
+    "charge": 3
+  },
+  {
+    "id": "Bk4+",
+    "element": "Bk",
+    "atomicNumber": 97,
+    "charge": 4
+  },
+  {
+    "id": "Cf3+",
+    "element": "Cf",
+    "atomicNumber": 98,
+    "charge": 3
+  },
+  {
+    "id": "Es3+",
+    "element": "Es",
+    "atomicNumber": 99,
+    "charge": 3
+  },
+  {
+    "id": "Fm3+",
+    "element": "Fm",
+    "atomicNumber": 100,
+    "charge": 3
+  },
+  {
+    "id": "Md2+",
+    "element": "Md",
+    "atomicNumber": 101,
+    "charge": 2
+  },
+  {
+    "id": "Md3+",
+    "element": "Md",
+    "atomicNumber": 101,
+    "charge": 3
+  },
+  {
+    "id": "No2+",
+    "element": "No",
+    "atomicNumber": 102,
+    "charge": 2
+  },
+  {
+    "id": "Lr3+",
+    "element": "Lr",
+    "atomicNumber": 103,
+    "charge": 3
+  },
+  {
+    "id": "Rf4+",
+    "element": "Rf",
+    "atomicNumber": 104,
+    "charge": 4
+  },
+  {
+    "id": "Db5+",
+    "element": "Db",
+    "atomicNumber": 105,
+    "charge": 5
+  },
+  {
+    "id": "Sg6+",
+    "element": "Sg",
+    "atomicNumber": 106,
+    "charge": 6
+  },
+  {
+    "id": "Bh7+",
+    "element": "Bh",
+    "atomicNumber": 107,
+    "charge": 7
+  },
+  {
+    "id": "Hs8+",
+    "element": "Hs",
+    "atomicNumber": 108,
+    "charge": 8
+  },
+  {
+    "id": "Mt3+",
+    "element": "Mt",
+    "atomicNumber": 109,
+    "charge": 3
+  },
+  {
+    "id": "Ds2+",
+    "element": "Ds",
+    "atomicNumber": 110,
+    "charge": 2
+  },
+  {
+    "id": "Ds4+",
+    "element": "Ds",
+    "atomicNumber": 110,
+    "charge": 4
+  },
+  {
+    "id": "Rg+",
+    "element": "Rg",
+    "atomicNumber": 111,
+    "charge": 1
+  },
+  {
+    "id": "Rg3+",
+    "element": "Rg",
+    "atomicNumber": 111,
+    "charge": 3
+  },
+  {
+    "id": "Cn2+",
+    "element": "Cn",
+    "atomicNumber": 112,
+    "charge": 2
+  },
+  {
+    "id": "Nh+",
+    "element": "Nh",
+    "atomicNumber": 113,
+    "charge": 1
+  },
+  {
+    "id": "Nh3+",
+    "element": "Nh",
+    "atomicNumber": 113,
+    "charge": 3
+  },
+  {
+    "id": "Fl2+",
+    "element": "Fl",
+    "atomicNumber": 114,
+    "charge": 2
+  },
+  {
+    "id": "Fl4+",
+    "element": "Fl",
+    "atomicNumber": 114,
+    "charge": 4
+  },
+  {
+    "id": "Mc+",
+    "element": "Mc",
+    "atomicNumber": 115,
+    "charge": 1
+  },
+  {
+    "id": "Mc3+",
+    "element": "Mc",
+    "atomicNumber": 115,
+    "charge": 3
+  },
+  {
+    "id": "Lv2+",
+    "element": "Lv",
+    "atomicNumber": 116,
+    "charge": 2
+  },
+  {
+    "id": "Lv4+",
+    "element": "Lv",
+    "atomicNumber": 116,
+    "charge": 4
+  },
+  {
+    "id": "Ts-",
+    "element": "Ts",
+    "atomicNumber": 117,
+    "charge": -1
+  },
+  {
+    "id": "Ts+",
+    "element": "Ts",
+    "atomicNumber": 117,
+    "charge": 1
+  },
+  {
+    "id": "Ts3+",
+    "element": "Ts",
+    "atomicNumber": 117,
+    "charge": 3
+  },
+  {
+    "id": "Ts5+",
+    "element": "Ts",
+    "atomicNumber": 117,
+    "charge": 5
+  },
+  {
+    "id": "Ts7+",
+    "element": "Ts",
+    "atomicNumber": 117,
+    "charge": 7
+  }
+]
