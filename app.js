@@ -43,32 +43,17 @@ async function loadData() {
 
         // Chargement des éléments
         const elementsResponse =
-            await fetch("data/elements.json");
+    await fetch("elements.json");
 
-        elements = await elementsResponse.json();
+const ionsResponse =
+    await fetch("ions.json");
 
-
-        // Chargement des ions
-        const ionsResponse =
-            await fetch("data/ions.json");
-
-        ions = await ionsResponse.json();
-
-
-        /*
-           Les nucléides sont répartis dans 4 fichiers.
-
-           Promise.all() permet de charger plusieurs fichiers
-           en même temps au lieu d'attendre chaque fichier
-           l'un après l'autre.
-        */
-
-        const nuclideFiles = [
-            "data/nuclides-1.json",
-            "data/nuclides-2.json",
-            "data/nuclides-3.json",
-            "data/nuclides-4.json"
-        ];
+const nuclideFiles = [
+    "nuclides-1.json",
+    "nuclides-2.json",
+    "nuclides-3.json",
+    "nuclides-4.json"
+];
 
         const nuclideResponses =
             await Promise.all(
